@@ -1,8 +1,8 @@
-\# Arquitetura do Gerenciamento de Agenda
+# Arquitetura do Gerenciamento de Agenda
 
 
 
-\## 1. Visão geral
+## 1. Visão geral
 
 
 
@@ -14,21 +14,21 @@ Sua arquitetura é baseada em uma combinação de:
 
 
 
-\* Hierarquia de decisão;
+* Hierarquia de decisão;
 
-\* Regras operacionais;
+* Regras operacionais;
 
-\* Auditoria;
+* Auditoria;
 
-\* Priorização;
+* Priorização;
 
-\* Distribuição temporal;
+* Distribuição temporal;
 
-\* Aprovação;
+* Aprovação;
 
-\* Execução;
+* Execução;
 
-\* Auditoria final.
+* Auditoria final.
 
 
 
@@ -36,7 +36,7 @@ A arquitetura tem como objetivo garantir que alterações na agenda sejam realiz
 
 
 
-\## 2. Estrutura conceitual
+## 2. Estrutura conceitual
 
 
 
@@ -44,7 +44,7 @@ O gerenciamento pode ser representado pelas seguintes camadas:
 
 
 
-```text
+
 
 
 
@@ -130,7 +130,7 @@ Execução
 
 Auditoria final
 
-```
+
 
 
 
@@ -138,7 +138,7 @@ Cada camada possui uma função específica no processo de decisão.
 
 
 
-\## 3. Objetivo
+## 3. Objetivo
 
 
 
@@ -146,15 +146,15 @@ A camada de objetivo estabelece a finalidade geral do gerenciamento:
 
 
 
-\* Maximizar aprendizagem e consistência;
+* Maximizar aprendizagem e consistência;
 
-\* Conciliar vestibular, desenvolvimento técnico e preparação profissional;
+* Conciliar vestibular, desenvolvimento técnico e preparação profissional;
 
-\* Considerar compromissos pessoais e externos;
+* Considerar compromissos pessoais e externos;
 
-\* Preservar descanso e recuperação;
+* Preservar descanso e recuperação;
 
-\* Manter uma rotina sustentável.
+* Manter uma rotina sustentável.
 
 
 
@@ -162,7 +162,7 @@ O objetivo funciona como referência geral para as demais decisões.
 
 
 
-\## 4. Hierarquia operacional
+## 4. Hierarquia operacional
 
 
 
@@ -174,25 +174,25 @@ A ordem estabelecida é:
 
 
 
-1\. Integridade e veracidade dos dados;
+1. Integridade e veracidade dos dados;
 
-2\. Restrições temporais e compromissos reais;
+2. Restrições temporais e compromissos reais;
 
-3\. Integridade do sistema de revisões;
+3. Integridade do sistema de revisões;
 
-4\. Prioridade acadêmica;
+4. Prioridade acadêmica;
 
-5\. Dependências e ordem pedagógica;
+5. Dependências e ordem pedagógica;
 
-6\. Carga cognitiva, energia e sustentabilidade;
+6. Carga cognitiva, energia e sustentabilidade;
 
-7\. Distribuição de conteúdo novo;
+7. Distribuição de conteúdo novo;
 
-8\. Pausas e organização dos blocos;
+8. Pausas e organização dos blocos;
 
-9\. Preparação profissional;
+9. Preparação profissional;
 
-10\. Sugestões e otimizações secundárias.
+10. Sugestões e otimizações secundárias.
 
 
 
@@ -200,7 +200,7 @@ A hierarquia funciona como mecanismo de desempate quando duas ou mais necessidad
 
 
 
-\## 5. Camada de contexto
+## 5. Camada de contexto
 
 
 
@@ -212,23 +212,23 @@ Entre os elementos relevantes estão:
 
 
 
-\* Data e horário atuais;
+* Data e horário atuais;
 
-\* Compromissos existentes no período;
+* Compromissos existentes no período;
 
-\* Revisões existentes;
+* Revisões existentes;
 
-\* Datas e horários;
+* Datas e horários;
 
-\* Conflitos;
+* Conflitos;
 
-\* Duração;
+* Duração;
 
-\* Prioridades;
+* Prioridades;
 
-\* Dependências pedagógicas;
+* Dependências pedagógicas;
 
-\* Espaço temporal disponível.
+* Espaço temporal disponível.
 
 
 
@@ -236,7 +236,7 @@ A arquitetura não permite que decisões sejam baseadas apenas em uma informaç�
 
 
 
-\## 6. Auditoria
+## 6. Auditoria
 
 
 
@@ -252,23 +252,23 @@ A auditoria deve identificar, entre outros elementos:
 
 
 
-\* Conflitos;
+* Conflitos;
 
-\* Duplicidades;
+* Duplicidades;
 
-\* Restrições temporais;
+* Restrições temporais;
 
-\* Revisões existentes;
+* Revisões existentes;
 
-\* Carga cognitiva;
+* Carga cognitiva;
 
-\* Disponibilidade temporal;
+* Disponibilidade temporal;
 
-\* Compromissos pessoais e externos.
+* Compromissos pessoais e externos.
 
 
 
-\## 7. Classificação
+## 7. Classificação
 
 
 
@@ -280,15 +280,15 @@ As categorias principais são:
 
 
 
-\* Revisão;
+* Revisão;
 
-\* Conteúdo novo;
+* Conteúdo novo;
 
-\* Desenvolvimento técnico;
+* Desenvolvimento técnico;
 
-\* Preparação profissional;
+* Preparação profissional;
 
-\* Compromisso pessoal ou externo.
+* Compromisso pessoal ou externo.
 
 
 
@@ -296,7 +296,7 @@ A classificação permite que as regras específicas de cada categoria sejam apl
 
 
 
-\## 8. Priorização
+## 8. Priorização
 
 
 
@@ -308,7 +308,7 @@ A prioridade entre os eixos é:
 
 
 
-```text
+
 
 
 
@@ -332,7 +332,7 @@ Preparação profissional
 
 
 
-```
+
 
 
 
@@ -340,7 +340,7 @@ Essa prioridade não substitui as restrições superiores da hierarquia, como co
 
 
 
-\## 9. Distribuição
+## 9. Distribuição
 
 
 
@@ -348,21 +348,21 @@ Depois da priorização, as atividades podem ser distribuídas considerando:
 
 
 
-\* Ordem;
+* Ordem;
 
-\* Duração;
+* Duração;
 
-\* Horários;
+* Horários;
 
-\* Pausas;
+* Pausas;
 
-\* Conflitos;
+* Conflitos;
 
-\* Energia;
+* Energia;
 
-\* Carga cognitiva;
+* Carga cognitiva;
 
-\* Espaço temporal disponível.
+* Espaço temporal disponível.
 
 
 
@@ -370,7 +370,7 @@ Tarefas sem horário permanecem flexíveis até que exista uma solicitação ou 
 
 
 
-\## 10. Proposta e aprovação
+## 10. Proposta e aprovação
 
 
 
@@ -382,15 +382,15 @@ A proposta deve explicar:
 
 
 
-\* O que será alterado;
+* O que será alterado;
 
-\* Por que será alterado;
+* Por que será alterado;
 
-\* Datas e horários relevantes;
+* Datas e horários relevantes;
 
-\* Conflitos encontrados;
+* Conflitos encontrados;
 
-\* Critérios utilizados.
+* Critérios utilizados.
 
 
 
@@ -398,7 +398,7 @@ A execução ocorre somente após aprovação explícita quando esta for necess�
 
 
 
-\## 11. Execução
+## 11. Execução
 
 
 
@@ -414,7 +414,7 @@ Nesse caso, o problema deve ser apresentado juntamente com uma alternativa.
 
 
 
-\## 12. Auditoria final
+## 12. Auditoria final
 
 
 
@@ -426,21 +426,21 @@ A auditoria final busca garantir:
 
 
 
-\* Ausência de conflitos;
+* Ausência de conflitos;
 
-\* Ausência de duplicidades;
+* Ausência de duplicidades;
 
-\* Datas corretas;
+* Datas corretas;
 
-\* Horários corretos;
+* Horários corretos;
 
-\* Duração adequada;
+* Duração adequada;
 
-\* Preservação das pausas;
+* Preservação das pausas;
 
-\* Integridade dos ciclos de revisão;
+* Integridade dos ciclos de revisão;
 
-\* Preservação dos demais compromissos.
+* Preservação dos demais compromissos.
 
 
 
@@ -448,7 +448,7 @@ Essa etapa funciona como mecanismo de controle da integridade da alteração rea
 
 
 
-\## 13. Sistema de revisões
+## 13. Sistema de revisões
 
 
 
@@ -460,7 +460,7 @@ Existem dois tipos:
 
 
 
-```text
+
 
 
 
@@ -472,7 +472,7 @@ Revisões
 
 
 
-```
+
 
 
 
@@ -480,7 +480,7 @@ Quando um conteúdo é efetivamente estudado e o processo é solicitado, é cria
 
 
 
-```text
+
 
 
 
@@ -506,7 +506,7 @@ D+21
 
 
 
-```
+
 
 
 
@@ -514,7 +514,7 @@ As revisões possuem precedência sobre conteúdo novo dentro do respectivo eixo
 
 
 
-```text
+
 
 
 
@@ -530,11 +530,11 @@ Revisão técnica → Conteúdo técnico novo
 
 
 
-```
 
 
 
-\## 14. Mecanismo de sustentabilidade
+
+## 14. Mecanismo de sustentabilidade
 
 
 
@@ -550,15 +550,15 @@ Também são considerados:
 
 
 
-\* Dificuldade;
+* Dificuldade;
 
-\* Duração;
+* Duração;
 
-\* Necessidade de prática;
+* Necessidade de prática;
 
-\* Quantidade de revisões;
+* Quantidade de revisões;
 
-\* Compromissos existentes.
+* Compromissos existentes.
 
 
 
@@ -566,7 +566,7 @@ Quando necessário, a carga deve ser reduzida ou redistribuída.
 
 
 
-\## 15. Não compensação automática
+## 15. Não compensação automática
 
 
 
@@ -582,13 +582,13 @@ A atividade deve ser reavaliada para determinar se deve ser:
 
 
 
-\* Deslocada;
+* Deslocada;
 
-\* Retomada;
+* Retomada;
 
-\* Substituída;
+* Substituída;
 
-\* Removida.
+* Removida.
 
 
 
@@ -596,7 +596,7 @@ Esse mecanismo impede que uma falha pontual provoque acúmulo artificial de tare
 
 
 
-\## 16. Fluxo operacional completo
+## 16. Fluxo operacional completo
 
 
 
@@ -696,7 +696,7 @@ O processo geral pode ser representado como:
 
 
 
-\## 17. Fonte operacional
+## 17. Fonte operacional
 
 
 
@@ -708,7 +708,7 @@ As instruções detalhadas, exceções, critérios específicos e regras de exec
 
 
 
-\[`instrucoes/gerenciamento-agenda.md`](../instrucoes/gerenciamento-agenda.md)
+[`instrucoes/gerenciamento-agenda.md`](../instrucoes/gerenciamento-agenda.md)
 
 
 
