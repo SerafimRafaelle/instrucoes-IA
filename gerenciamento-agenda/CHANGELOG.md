@@ -1,4 +1,4 @@
-\# Changelog
+# Changelog
 
 
 
@@ -6,93 +6,93 @@ Registro das alterações realizadas no conjunto de instruções de gerenciament
 
 
 
-\## \[3.0] — 29/08/2026
+## [3.0] — 29/08/2026
 
 
 
-\### Changed
+### Changed
 
 
 
-\* Detalhamento do escopo e análise de inconsistências.
+* Detalhamento do escopo e análise de inconsistências.
 
-\* Revisão das regras e instruções.
+* Revisão das regras e instruções.
 
-\* Compactação do escopo para redução de redundâncias.
+* Compactação do escopo para redução de redundâncias.
 
-\* Definição da estrutura documental do projeto.
-
-
-
-\### Added
+* Definição da estrutura documental do projeto.
 
 
 
-\* Criação do `README.md`.
-
-\* Criação do `CHANGELOG.md`.
-
-\* Criação do arquivo exclusivo de regras (`docs/regras.md`).
-
-\* Criação do arquivo exclusivo de instruções (`instrucoes/gerenciamento-agenda.md`).
-
-\* Criação do arquivo de arquitetura (`docs/arquitetura.md`).
-
-\* Criação do arquivo de histórico (`docs/historico.md`).
+### Added
 
 
 
-\---
+* Criação do `README.md`.
+
+* Criação do `CHANGELOG.md`.
+
+* Criação do arquivo exclusivo de regras (`docs/regras.md`).
+
+* Criação do arquivo exclusivo de instruções (`instrucoes/gerenciamento-agenda.md`).
+
+* Criação do arquivo de arquitetura (`docs/arquitetura.md`).
+
+* Criação do arquivo de histórico (`docs/historico.md`).
 
 
 
-\## \[2.1] — 18/08/2026
+---
 
 
 
-\### Changed
+## [2.1] — 18/08/2026
 
 
 
-\* Detalhamento do escopo.
-
-\* Análise de inconsistências nas instruções existentes.
+### Changed
 
 
 
-\---
+* Detalhamento do escopo.
+
+* Análise de inconsistências nas instruções existentes.
 
 
 
-\## \[2.0] — 17/08/2026
+---
 
 
 
-\### Added
+## [2.0] — 17/08/2026
 
 
 
-\* Implementação das regras de conflito.
-
-\* Implementação das regras de revisão.
+### Added
 
 
 
-\---
+* Implementação das regras de conflito.
+
+* Implementação das regras de revisão.
 
 
 
-\## \[1.0] — 16/08/2026
+---
 
 
 
-\### Added
+## [1.0] — 16/08/2026
 
 
 
-\* Identificação do problema e definição inicial das instruções.
+### Added
 
-\* Criação das primeiras instruções de gerenciamento de agenda (`REGRAS-AGENDA-Rafaelle.md`).
+
+
+* Identificação do problema e definição inicial das instruções.
+
+* Criação das primeiras instruções de gerenciamento de agenda (`REGRAS-AGENDA-Rafaelle.md`).
 
 
 
