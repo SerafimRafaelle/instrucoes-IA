@@ -1,6 +1,6 @@
 # instrucoes-IA
 
-Repositório destinado à organização e manutenção de **instruções personalizadas para sistemas de Inteligência Artificial**, com diferentes funções e contextos de atuação.
+Repositório destinado à organização e manutenção de **instruções personalizadas para sistemas de IA**, com diferentes funções e contextos de atuação.
 
 ## Objetivo
 
