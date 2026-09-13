@@ -1,0 +1,102 @@
+{
+  "database": "empresa",
+  "departamentos": [
+    {
+      "id": 1,
+      "nome": "Financeiro"
+    },
+    {
+      "id": 2,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 3,
+      "nome": "Recursos Humanos"
+    },
+    {
+      "id": 4,
+      "nome": "Comercial"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 101,
+      "nome": "Amanda Ribeiro",
+      "cargo": "Analista Financeiro",
+      "salario": 4200.0,
+      "departamento_id": 1
+    },
+    {
+      "id": 102,
+      "nome": "Bruno Martins",
+      "cargo": "Desenvolvedor",
+      "salario": 5800.0,
+      "departamento_id": 2
+    },
+    {
+      "id": 103,
+      "nome": "Clara Souza",
+      "cargo": "Analista de RH",
+      "salario": 3900.0,
+      "departamento_id": 3
+    },
+    {
+      "id": 104,
+      "nome": "Daniel Costa",
+      "cargo": "Vendedor",
+      "salario": 3100.0,
+      "departamento_id": 4
+    },
+    {
+      "id": 105,
+      "nome": "Eduarda Lima",
+      "cargo": "Desenvolvedora",
+      "salario": 6200.0,
+      "departamento_id": 2
+    }
+  ],
+  "projetos": [
+    {
+      "id": 201,
+      "nome": "Sistema ERP",
+      "orcamento": 85000.0
+    },
+    {
+      "id": 202,
+      "nome": "Dashboard Comercial",
+      "orcamento": 32000.0
+    },
+    {
+      "id": 203,
+      "nome": "Portal do Funcionário",
+      "orcamento": 45000.0
+    }
+  ],
+  "funcionarios_projetos": [
+    {
+      "funcionario_id": 102,
+      "projeto_id": 201,
+      "horas": 120
+    },
+    {
+      "funcionario_id": 105,
+      "projeto_id": 201,
+      "horas": 150
+    },
+    {
+      "funcionario_id": 101,
+      "projeto_id": 202,
+      "horas": 60
+    },
+    {
+      "funcionario_id": 104,
+      "projeto_id": 202,
+      "horas": 90
+    },
+    {
+      "funcionario_id": 103,
+      "projeto_id": 203,
+      "horas": 75
+    }
+  ]
+}
