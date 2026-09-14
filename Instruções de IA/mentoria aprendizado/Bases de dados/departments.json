@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Engineering",
+    "budget": 500000,
+    "location": "São Paulo",
+    "manager": "Sarah",
+    "employees_count": "10"
+  },
+  {
+    "name": "Sales",
+    "budget": 200000,
+    "location": "Rio de Janeiro",
+    "manager": "Michael",
+    "employees_count": "6"
+  },
+  {
+    "name": "Marketing",
+    "budget": 150000,
+    "location": "Belo Horizonte",
+    "manager": "Jessica",
+    "employees_count": "5"
+  },
+  {
+    "name": "HR",
+    "budget": 120000,
+    "location": "Curitiba",
+    "manager": "Daniel",
+    "employees_count": "5"
+  },
+  {
+    "name": "Finance",
+    "budget": 250000,
+    "location": "São Paulo",
+    "manager": "Rebecca",
+    "employees_count": "4"
+  },
+  {
+    "name": "Operations",
+    "budget": 300000,
+    "location": "Campinas",
+    "manager": "Thomas",
+    "employees_count": "0"
+  },
+  {
+    "name": "Legal",
+    "budget": 180000,
+    "location": "Belo Horizonte",
+    "manager": "Patricia",
+    "employees_count": "0"
+  },
+  {
+    "name": "IT",
+    "budget": 400000,
+    "location": "São Paulo",
+    "manager": "Kevin",
+    "employees_count": "0"
+  }
+]
