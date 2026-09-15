@@ -26,6 +26,7 @@ Centralizar instruções estruturadas para agentes de IA especializados em difer
 │       ├── enterprise.json
 │       ├── hospital.json
 │       └── university.json
+│       └── sql_cross_domain.json
 │
 └── README.md
 ```
