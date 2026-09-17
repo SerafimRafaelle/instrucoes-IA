@@ -18,14 +18,45 @@ Centralizar instruções estruturadas para agentes de IA especializados em difer
 │
 ├── mentor-estudos/
 │   ├── instrucoes.md
+│   │
 │   └── Bases de dados/
-│       ├── cinema.json
-│       ├── departments.json
-│       ├── ecommerce.json
-│       ├── employees.json
-│       ├── enterprise.json
-│       ├── hospital.json
-│       └── university.json
+│       │
+│       ├── employees/
+│       │   └── employees.json
+│       │
+│       ├── departments/
+│       │   └── departments.json
+│       │
+│       ├── enterprise/
+│       │   ├── departamentos.json
+│       │   ├── funcionarios.json
+│       │   ├── projetos.json
+│       │   └── funcionarios_projetos.json
+│       │
+│       ├── hospital/
+│       │   ├── pacientes.json
+│       │   ├── especialidades.json
+│       │   ├── medicos.json
+│       │   └── consultas.json
+│       │
+│       ├── university/
+│       │   ├── alunos.json
+│       │   ├── cursos.json
+│       │   ├── disciplinas.json
+│       │   └── matriculas.json
+│       │
+│       ├── cinema/
+│       │   ├── filmes.json
+│       │   ├── salas.json
+│       │   ├── sessoes.json
+│       │   └── ingressos.json
+│       │
+│       ├── ecommerce/
+│       │   ├── clientes.json
+│       │   ├── produtos.json
+│       │   ├── pedidos.json
+│       │   └── itens_pedido.json
+│       │
 │       └── sql_cross_domain.json
 │
 └── README.md
