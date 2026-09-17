@@ -1,0 +1,32 @@
+[
+  {
+    "id": 100,
+    "nome": "Banco de Dados",
+    "curso_id": 11,
+    "carga_horaria": 80
+  },
+  {
+    "id": 101,
+    "nome": "Programação",
+    "curso_id": 11,
+    "carga_horaria": 100
+  },
+  {
+    "id": 102,
+    "nome": "Gestão Financeira",
+    "curso_id": 10,
+    "carga_horaria": 80
+  },
+  {
+    "id": 103,
+    "nome": "Marketing",
+    "curso_id": 10,
+    "carga_horaria": 60
+  },
+  {
+    "id": 104,
+    "nome": "Logística",
+    "curso_id": 12,
+    "carga_horaria": 80
+  }
+]

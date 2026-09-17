@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Souza",
+    "cidade": "Piracicaba",
+    "estado": "SP",
+    "idade": 24
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Lima",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "idade": 31
+  },
+  {
+    "id": 3,
+    "nome": "Carolina Mendes",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "idade": 28
+  },
+  {
+    "id": 4,
+    "nome": "Diego Santos",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "idade": 42
+  },
+  {
+    "id": 5,
+    "nome": "Fernanda Alves",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "idade": 35
+  }
+]

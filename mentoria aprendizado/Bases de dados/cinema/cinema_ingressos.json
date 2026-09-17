@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "sessao_id": 1001,
+    "cliente": "Paula",
+    "quantidade": 2
+  },
+  {
+    "id": 2,
+    "sessao_id": 1001,
+    "cliente": "Ricardo",
+    "quantidade": 3
+  },
+  {
+    "id": 3,
+    "sessao_id": 1002,
+    "cliente": "Marcos",
+    "quantidade": 1
+  },
+  {
+    "id": 4,
+    "sessao_id": 1003,
+    "cliente": "Juliana",
+    "quantidade": 4
+  },
+  {
+    "id": 5,
+    "sessao_id": 1004,
+    "cliente": "Fernanda",
+    "quantidade": 2
+  },
+  {
+    "id": 6,
+    "sessao_id": 1005,
+    "cliente": "Lucas",
+    "quantidade": 5
+  }
+]

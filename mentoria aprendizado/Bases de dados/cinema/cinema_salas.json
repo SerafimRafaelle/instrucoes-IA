@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10,
+    "numero": 1,
+    "capacidade": 120,
+    "tipo": "IMAX"
+  },
+  {
+    "id": 11,
+    "numero": 2,
+    "capacidade": 80,
+    "tipo": "3D"
+  },
+  {
+    "id": 12,
+    "numero": 3,
+    "capacidade": 60,
+    "tipo": "Tradicional"
+  }
+]

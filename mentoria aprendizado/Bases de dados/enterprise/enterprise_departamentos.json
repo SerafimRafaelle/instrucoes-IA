@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Financeiro"
+  },
+  {
+    "id": 2,
+    "nome": "Tecnologia"
+  },
+  {
+    "id": 3,
+    "nome": "Recursos Humanos"
+  },
+  {
+    "id": 4,
+    "nome": "Comercial"
+  }
+]

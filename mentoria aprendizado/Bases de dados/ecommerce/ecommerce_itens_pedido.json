@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "pedido_id": 1001,
+    "produto_id": 101,
+    "quantidade": 1
+  },
+  {
+    "id": 2,
+    "pedido_id": 1001,
+    "produto_id": 102,
+    "quantidade": 2
+  },
+  {
+    "id": 3,
+    "pedido_id": 1002,
+    "produto_id": 103,
+    "quantidade": 1
+  },
+  {
+    "id": 4,
+    "pedido_id": 1003,
+    "produto_id": 104,
+    "quantidade": 2
+  },
+  {
+    "id": 5,
+    "pedido_id": 1004,
+    "produto_id": 101,
+    "quantidade": 1
+  },
+  {
+    "id": 6,
+    "pedido_id": 1004,
+    "produto_id": 105,
+    "quantidade": 1
+  },
+  {
+    "id": 7,
+    "pedido_id": 1005,
+    "produto_id": 102,
+    "quantidade": 3
+  }
+]

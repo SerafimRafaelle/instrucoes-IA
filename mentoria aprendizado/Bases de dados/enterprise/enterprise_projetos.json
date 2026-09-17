@@ -1,0 +1,17 @@
+[
+  {
+    "id": 201,
+    "nome": "Sistema ERP",
+    "orcamento": 85000.0
+  },
+  {
+    "id": 202,
+    "nome": "Dashboard Comercial",
+    "orcamento": 32000.0
+  },
+  {
+    "id": 203,
+    "nome": "Portal do Funcionário",
+    "orcamento": 45000.0
+  }
+]

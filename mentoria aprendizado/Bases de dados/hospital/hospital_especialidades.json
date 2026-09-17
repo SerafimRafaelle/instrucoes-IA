@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Cardiologia"
+  },
+  {
+    "id": 2,
+    "nome": "Dermatologia"
+  },
+  {
+    "id": 3,
+    "Ortopedia": "Ortopedia"
+  },
+  {
+    "id": 4,
+    "nome": "Clínica Geral"
+  }
+]

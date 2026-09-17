@@ -1,0 +1,17 @@
+[
+  {
+    "id": 10,
+    "nome": "Administração",
+    "duracao_anos": 4
+  },
+  {
+    "id": 11,
+    "nome": "Ciência da Computação",
+    "duracao_anos": 4
+  },
+  {
+    "id": 12,
+    "nome": "Engenharia de Produção",
+    "duracao_anos": 5
+  }
+]

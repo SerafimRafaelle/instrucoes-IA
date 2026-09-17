@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Horizonte Zero",
+    "genero": "Ficção Científica",
+    "duracao_minutos": 128,
+    "classificacao": "14"
+  },
+  {
+    "id": 2,
+    "titulo": "A Última Estação",
+    "genero": "Drama",
+    "duracao_minutos": 115,
+    "classificacao": "12"
+  },
+  {
+    "id": 3,
+    "titulo": "Operação Eclipse",
+    "genero": "Ação",
+    "duracao_minutos": 142,
+    "classificacao": "16"
+  },
+  {
+    "id": 4,
+    "titulo": "O Jardim Secreto",
+    "genero": "Fantasia",
+    "duracao_minutos": 105,
+    "classificacao": "10"
+  }
+]

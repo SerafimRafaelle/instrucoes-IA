@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "nome": "Dr. Rafael Mendes",
+    "especialidade_id": 1
+  },
+  {
+    "id": 102,
+    "nome": "Dra. Camila Souza",
+    "especialidade_id": 2
+  },
+  {
+    "id": 103,
+    "nome": "Dr. André Lima",
+    "especialidade_id": 3
+  },
+  {
+    "id": 104,
+    "nome": "Dra. Juliana Alves",
+    "especialidade_id": 4
+  }
+]

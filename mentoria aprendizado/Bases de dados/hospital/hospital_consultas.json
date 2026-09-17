@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1001,
+    "paciente_id": 1,
+    "medico_id": 102,
+    "data": "2026-09-02",
+    "valor": 250.0,
+    "status": "realizada"
+  },
+  {
+    "id": 1002,
+    "paciente_id": 2,
+    "medico_id": 101,
+    "data": "2026-09-03",
+    "valor": 350.0,
+    "status": "realizada"
+  },
+  {
+    "id": 1003,
+    "paciente_id": 3,
+    "medico_id": 104,
+    "data": "2026-09-04",
+    "valor": 180.0,
+    "status": "cancelada"
+  },
+  {
+    "id": 1004,
+    "paciente_id": 4,
+    "medico_id": 103,
+    "data": "2026-09-05",
+    "valor": 300.0,
+    "status": "realizada"
+  },
+  {
+    "id": 1005,
+    "paciente_id": 5,
+    "medico_id": 101,
+    "data": "2026-09-06",
+    "valor": 350.0,
+    "status": "agendada"
+  }
+]

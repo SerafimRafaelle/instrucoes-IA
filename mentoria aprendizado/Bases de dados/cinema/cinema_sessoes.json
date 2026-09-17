@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1001,
+    "filme_id": 1,
+    "sala_id": 10,
+    "data": "2026-09-10",
+    "horario": "18:30",
+    "preco": 35.0
+  },
+  {
+    "id": 1002,
+    "filme_id": 1,
+    "sala_id": 11,
+    "data": "2026-09-10",
+    "horario": "21:30",
+    "preco": 28.0
+  },
+  {
+    "id": 1003,
+    "filme_id": 2,
+    "sala_id": 12,
+    "data": "2026-09-11",
+    "horario": "19:00",
+    "preco": 22.0
+  },
+  {
+    "id": 1004,
+    "filme_id": 3,
+    "sala_id": 10,
+    "data": "2026-09-11",
+    "horario": "22:00",
+    "preco": 35.0
+  },
+  {
+    "id": 1005,
+    "filme_id": 4,
+    "sala_id": 12,
+    "data": "2026-09-12",
+    "horario": "16:00",
+    "preco": 20.0
+  }
+]

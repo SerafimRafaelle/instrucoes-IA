@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "nome": "Amanda Ribeiro",
+    "cargo": "Analista Financeiro",
+    "salario": 4200.0,
+    "departamento_id": 1
+  },
+  {
+    "id": 102,
+    "nome": "Bruno Martins",
+    "cargo": "Desenvolvedor",
+    "salario": 5800.0,
+    "departamento_id": 2
+  },
+  {
+    "id": 103,
+    "nome": "Clara Souza",
+    "cargo": "Analista de RH",
+    "salario": 3900.0,
+    "departamento_id": 3
+  },
+  {
+    "id": 104,
+    "nome": "Daniel Costa",
+    "cargo": "Vendedor",
+    "salario": 3100.0,
+    "departamento_id": 4
+  },
+  {
+    "id": 105,
+    "nome": "Eduarda Lima",
+    "cargo": "Desenvolvedora",
+    "salario": 6200.0,
+    "departamento_id": 2
+  }
+]
